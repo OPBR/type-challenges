@@ -1,6 +1,6 @@
 <p align='center'>
   <img src='./screenshots/logo.svg' width='400'/>
-</p>
+</p>git@github.com:OPBR/type-challenges.git
 
 <p align='center'>TypeScript 类型体操姿势合集</p>
 

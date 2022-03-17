@@ -1,3 +1,4 @@
+/* eslint-disable no-use-before-define */
 import { Equal, Expect } from '@type-challenges/utils'
 
 type cases = [
